@@ -1,6 +1,6 @@
-a = {'abc': 3, 'xyz': 2}
-s = 'abc'
-if s in a:
-  print(a[s])
+result = False
+
+if result:
+  print('True')
 else:
-  print('Not Exist')
+  print('No')
