@@ -1,6 +1,6 @@
 ## ネットワークグラフ
 
-![graph](image/graph.png)
+![graph](https://user-images.githubusercontent.com/55664594/112824146-2219b800-90c5-11eb-908f-ec2cdc2f0132.png)
 
 
 ### 有向グラフ 無向グラフ
