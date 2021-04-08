@@ -11,7 +11,7 @@ for i in range(height):
     row = input()
     Maze.append(row)
 
-
+# スタートとゴール
 sy -= 1
 sx -= 1
 gy -= 1
